@@ -1,4 +1,4 @@
-import { feedback } from "../Feedback/Feedback.module.css";
+import { feedback } from "./Feedback.module.css";
 
 function Feedback({
   feedbackGood,
